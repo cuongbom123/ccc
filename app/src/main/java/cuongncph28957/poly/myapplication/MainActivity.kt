@@ -11,5 +11,6 @@ class MainActivity : AppCompatActivity() {
         // Tao chào mày
         // Mày thích chết không
         // Cái thằng đầu khấc
+        // MMM
     }
 }
