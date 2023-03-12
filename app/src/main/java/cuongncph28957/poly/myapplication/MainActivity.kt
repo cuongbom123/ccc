@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
         // Hello A
         // Tao chào mày
         // Mày thích chết không
+        // Cái thằng đầu khấc
     }
 }
